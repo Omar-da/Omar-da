@@ -2,4 +2,4 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Laravel framework
 - 📧 Contact me: omaraldalati3@gmail.com
-
+- Here is my CV : https://github.com/Omar-da/Omar-da/blob/main/CV.pdf
